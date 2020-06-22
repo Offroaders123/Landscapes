@@ -1,0 +1,138 @@
+{
+  "format_version": [ 1, 1, 0 ],
+
+  "acacia_fence_gate": {
+    "textures": "acacia_fence_gate"
+  },
+  "beetroot": {
+    "blockshape": "cross_texture"
+  },
+  "birch_fence_gate": {
+    "textures": "birch_fence_gate"
+  },
+  "brown_mushroom_block": {
+    "isotropic": true
+  },
+  "cake": {
+    "isotropic": {
+      "up": true,
+      "down": true
+    }
+  },
+  "carrots": {
+    "blockshape": "cross_texture"
+  },
+  "carved_pumpkin": {
+    "isotropic": {
+      "up": true,
+      "down": true
+    }
+  },
+  "concretePowder": {
+    "isotropic": true
+  },
+  "coral_block": {
+    "isotropic": true
+  },
+  "crimson_fence": {
+    "textures": "crimson_fence"
+  },
+  "crimson_fence_gate": {
+    "textures": "crimson_fence"
+  },
+  "crimson_nylium": {
+    "isotropic": true
+  },
+  "dark_oak_fence_gate": {
+    "textures": "dark_oak_fence_gate"
+  },
+  "fence": {
+    "textures": "fence"
+  },
+  "fence_gate": {
+    "textures": "oak_fence_gate"
+  },
+  "grass": {
+    "isotropic": true
+  },
+  "grass_path": {
+    "isotropic": true
+  },
+  "gravel": {
+    "isotropic": true
+  },
+  "honey_block": {
+    "isotropic": true
+  },
+  "jungle_fence_gate": {
+    "textures": "jungle_fence_gate"
+  },
+  "leaves": {
+    "isotropic": true
+  },
+  "leaves2": {
+    "isotropic": true
+  },
+  "lit_pumpkin": {
+    "isotropic": {
+      "up": true,
+      "down": true
+    }
+  },
+  "melon_block": {
+    "isotropic": {
+      "up": true,
+      "down": true
+    }
+  },
+  "mycelium": {
+    "isotropic": true
+  },
+  "nether_wart": {
+    "blockshape": "cross_texture"
+  },
+  "nether_wart_block": {
+    "isotropic": true
+  },
+  "podzol": {
+    "isotropic": true
+  },
+  "potatoes": {
+    "blockshape": "cross_texture"
+  },
+  "pumpkin": {
+    "isotropic": {
+      "up": true,
+      "down": true
+    }
+  },
+  "red_mushroom_block": {
+    "isotropic": true
+  },
+  "slime": {
+    "isotropic": true
+  },
+  "soul_sand": {
+    "isotropic": true
+  },
+  "spruce_fence_gate": {
+    "textures": "spruce_fence_gate"
+  },
+  "warped_fence": {
+    "textures": "warped_fence"
+  },
+  "warped_fence_gate": {
+    "textures": "warped_fence"
+  },
+  "warped_nylium": {
+    "isotropic": true
+  },
+  "warped_wart_block": {
+    "isotropic": true
+  },
+  "wheat": {
+    "blockshape": "cross_texture"
+  }
+}
+
+// Edited by Offroaders123 for the Landscapes resource pack for Minecraft Bedrock Edition.

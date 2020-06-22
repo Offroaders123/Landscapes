@@ -1,0 +1,27 @@
+{
+  "format_version": 2,
+
+  "header": {
+    "description": "A natural addition to the vanilla environment! Created by Offroaders123 for Minecraft Bedrock Edition",
+    "name": "§aLandscapes",
+    "uuid": "15246f14-67ac-4f42-8eee-a404c61aa5aa",
+    "version": [ 1, 16, 0 ],
+    "min_engine_version": [ 1, 16, 0 ]
+  },
+  "modules": [
+    {
+      "description": "A natural addition to the vanilla environment! Created by Offroaders123 for Minecraft Bedrock Edition",
+      "type": "resources",
+      "uuid": "799caf50-0bed-4a5d-ae8c-e44dfcdc1db7",
+      "version": [ 1, 16, 0 ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Offroaders123"
+    ],
+    "url": "https://sites.google.com/view/the-melon-slice/home"
+  }
+}
+
+// Created by Offroaders123 for the Landscapes resource pack for Minecraft Bedrock Edition.
