@@ -9,6 +9,8 @@
     },
     "river": {
       "fog_color": "#bed7e2",
+      "water_surface_color": "#4f6f8c",
+      "water_fog_color": "#4f6f8c",
       "water_fog_distance": 30
     },
     "frozen_river": {
