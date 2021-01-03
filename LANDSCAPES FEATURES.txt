@@ -1,8 +1,0 @@
-Stripped fences
-Smooth grass from Simple Sides
-Water Colors
-Sky fog colors
-Crops now have a cross texture
-Random texture rotations
-
-Changes all water color to be more realistic, adds biome-specific sky colors, smooth grass sides (like Simple Sides), smooth fences, and changes crops to have a new model.
