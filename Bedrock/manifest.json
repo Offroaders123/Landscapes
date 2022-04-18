@@ -3,25 +3,21 @@
 
   "header": {
     "name": "§aLandscapes",
-    "description": "A natural addition to the vanilla environment! Created by Offroaders123 for Minecraft Bedrock Edition",
+    "description": "A natural addition to the vanilla environment! Created by Offroaders123",
     "uuid": "15246f14-67ac-4f42-8eee-a404c61aa5aa",
     "version": [ 1, 16, 200 ],
     "min_engine_version": [ 1, 16, 0 ]
   },
   "modules": [
     {
-      "description": "A natural addition to the vanilla environment! Created by Offroaders123 for Minecraft Bedrock Edition",
+      "description": "A natural addition to the vanilla environment! Created by Offroaders123",
       "type": "resources",
       "uuid": "799caf50-0bed-4a5d-ae8c-e44dfcdc1db7",
       "version": [ 1, 16, 200 ]
     }
   ],
   "metadata": {
-    "authors": [
-      "Offroaders123"
-    ],
+    "authors": ["Offroaders123"],
     "url": "https://github.com/Offroaders123"
   }
 }
-
-// Created by Offroaders123 for the Landscapes resource pack for Minecraft Bedrock Edition.
